@@ -24,14 +24,6 @@
 
 ## 安装
 
-### 从源码安装
-
-```bash
-git clone https://github.com/yourusername/turbojpeg-decoder.git
-cd turbojpeg-decoder
-pip install .
-```
-
 ### 从 wheel 安装
 
 ```bash
